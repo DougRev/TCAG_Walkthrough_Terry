@@ -1,0 +1,11 @@
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\bin\Debug\ToCatchAGremlin.UI.exe.config
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\bin\Debug\ToCatchAGremlin.UI.exe
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\bin\Debug\ToCatchAGremlin.UI.pdb
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\bin\Debug\TCAG_Repositories.dll
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\bin\Debug\TCAG_Repositories.pdb
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.csproj.AssemblyReference.cache
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.csproj.CoreCompileInputs.cache
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.csproj.CopyComplete
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.exe
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\ToCatchAGremlin.UI\obj\Debug\ToCatchAGremlin.UI.pdb

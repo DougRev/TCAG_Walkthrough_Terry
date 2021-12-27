@@ -1,0 +1,6 @@
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\bin\Debug\TCAG_Repositories.dll
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\bin\Debug\TCAG_Repositories.pdb
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\obj\Debug\TCAG_Repositories.csproj.AssemblyReference.cache
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\obj\Debug\TCAG_Repositories.csproj.CoreCompileInputs.cache
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\obj\Debug\TCAG_Repositories.dll
+C:\Users\DJ Revell\source\repos\GoldBadgeChallenges\ToCatchAGremlin\TCAG_Repositories\obj\Debug\TCAG_Repositories.pdb
